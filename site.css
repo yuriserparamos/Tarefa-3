@@ -1,0 +1,56 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+.sec1 h1{
+    color: seagreen;
+}
+
+.sec2 h1{
+    color:paleturquoise;
+}
+
+.sec3 h1{
+    color:chocolate;
+}
+
+.sec4 h1{
+    color: midnightblue;
+}
+
+header{
+    color: whitesmoke;
+    font-size: 2vw;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+header img{
+    width: 15%;
+    height: auto;
+    border-radius: 50%;
+    border: 5px solid goldenrod;
+    text-align: center;
+}
+
+.sec3 img{
+    width: 3%;
+    height: auto;
+    margin-top: 2%;
+    margin: 2%;
+}
+
+.sec4 img{
+    width: 3%;
+    height: auto;
+    margin-top: 2%;
+    margin-bottom: 12%;
+    margin-left: 2%;
+}
+
+footer h2{
+    color: mediumseagreen;
+    font-size: 2vw;
+
+}
